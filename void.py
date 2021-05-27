@@ -40,6 +40,7 @@ for x in range(pages):
         break
 print(spacer + "$ dork opened")
 time.sleep(2)
+
 #getting links/ips
 ui()
 print(spacer + f"$ scanning {dork}...")
