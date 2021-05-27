@@ -1,5 +1,5 @@
 # Void
-![](vanta.cc/images/e8e1d30b3face845ef6d5f4d61585c8f45cCnOhpOm.png)
+![](https://vanta.cc/images/e8e1d30b3face845ef6d5f4d61585c8f45cCnOhpOm.png)
 
 void is a dork scanner made with python
 # Features
